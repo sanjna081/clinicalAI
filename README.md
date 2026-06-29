@@ -18,18 +18,18 @@ An agentic AI system that takes any healthcare dataset, automatically trains the
 2. Create a virtual environment and activate it
 3. Install dependencies:
    pip install -r requirements.txt
-4. Create a .env file in the root folder with your OpenRouter API key:
-   OPENROUTER_API_KEY=your_key_here
+4. Create a .env file in the root folder with a OpenRouter API key
+   
 5. Run the app:
    streamlit run app.py
 
 ## Knowledge Base
 
-The RAG pipeline uses five curated documents covering U.S. payer regulatory and quality standards including CMS Program Integrity guidelines, HEDIS measure specifications, Transitional Care Management, and Chronic Care Management requirements.
+The RAG pipeline uses five curated documents covering US payer regulatory and quality standards including CMS Program Integrity guidelines, HEDIS measure specifications, Transitional Care Management, and Chronic Care Management requirements.
 
 ## Tech Stack
 
-- Streamlit — frontend UI
-- DeepSeek V4 Flash via OpenRouter — LLM
-- scikit-learn and XGBoost — ML engine
-- ChromaDB and sentence-transformers — RAG vector store
+- Streamlit 
+- DeepSeek V4 Flash via OpenRouter 
+- scikit-learn and XGBoost
+- ChromaDB and sentence-transformers
