@@ -1,0 +1,143 @@
+DOCUMENT: HEDIS MY 2024 — Effectiveness of Care: Pediatric and Adolescent Preventive Measures
+
+WHAT IT IS:
+HEDIS MY 2024 (Healthcare Effectiveness Data and Information Set, Measurement Year 2024) is NCQA's standardized framework for measuring health plan performance. This document covers the pediatric and adolescent preventive care measures, including Weight Assessment and Counseling for Children and Adolescents (WCC), Childhood Immunization Status (CIS), Immunizations for Adolescents (IMA), Lead Screening in Children (LSC), Chlamydia Screening in Women (CHL), Oral Evaluation and Dental Services (OED), and Topical Fluoride for Children (TFC).
+
+WHO QUALIFIES:
+WCC applies to members ages 3–17 who had an outpatient visit with a PCP or OB/GYN during the measurement year and requires documentation of BMI percentile, nutrition counseling, and physical activity counseling. CIS applies to children turning age 2 and requires completion of DTaP (x4), IPV (x3), MMR (x1), HiB (x3), HepB (x3), VZV (x1), PCV (x4), HepA (x1), RV (x2–3), and Flu (x2) vaccines by the second birthday. IMA applies to adolescents age 13 and requires meningococcal, Tdap, and completed HPV series by the 13th birthday. LSC applies to children age 2 and requires at least one capillary or venous lead blood test by the second birthday. CHL applies to women ages 16–24 identified as sexually active, requiring at least one chlamydia test during the year. OED applies to members under age 21 requiring a comprehensive or periodic oral evaluation with a dental provider. TFC applies to members ages 1–4 and requires at least two fluoride varnish applications during the measurement year.
+
+BILLING AND OPERATIONS:
+Claims should capture outpatient PCP and OB/GYN visits, immunization administration codes, lab tests for lead and chlamydia, and dental evaluation codes. Hybrid data collection combining claims and medical records is common. HPV series completion requires the full recommended schedule, not just initiation. Fluoride varnish must be documented at least twice in the measurement year to satisfy TFC.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+Immunization claims must reflect dates of service prior to the qualifying birthday. Dental evaluations should be billed with appropriate ADA procedure codes. Lab claims for lead and chlamydia must be tied to eligible members with accurate dates of birth, as incorrect age data can incorrectly include or exclude members from the denominator.
+
+RELEVANCE TO CARE MANAGEMENT:
+Care managers should track open gaps for members approaching age 2 for immunizations and lead screening, age 13 for adolescent immunizations, and ages 1–4 for fluoride. WCC outreach should prompt clinicians to document all three required components in the same visit. Chlamydia screening gaps in sexually active adolescent females represent a high-value and commonly missed HEDIS opportunity.
+
+DOCUMENT: HEDIS MY 2024 — Effectiveness of Care: Adult Preventive and Cancer Screening Measures
+
+WHAT IT IS:
+This section covers adult preventive and cancer screening HEDIS measures including Cervical Cancer Screening (CCS), Care for Older Adults (COA), Breast Cancer Screening (BCS-E), and Colorectal Cancer Screening (COL-E). BCS-E and COL-E are electronic clinical data system (ECDS) measures, meaning they rely on EHR data in addition to or instead of administrative claims.
+
+WHO QUALIFIES:
+CCS applies to members ages 21–64 recommended for routine cervical cancer screening. Members ages 21–64 satisfy the measure with cervical cytology within the last 3 years, and members ages 30–64 may alternatively satisfy it with hrHPV testing or cytology/hrHPV cotesting within the last 5 years. COA applies to adults 66 years and older and requires documentation of all three of the following during the measurement year: a medication review, a functional status assessment, and a pain assessment. BCS-E applies to members ages 50–74 recommended for routine breast cancer screening and requires a mammogram during the measurement year. COL-E applies to members ages 45–75 and requires appropriate colorectal cancer screening per current guidelines.
+
+BILLING AND OPERATIONS:
+Cervical cytology, hrHPV, and cotesting must be captured using appropriate CPT or HCPCS codes within the specified look-back windows of 3 or 5 years. For COA, all three documentation components must appear in claims or medical records within the same measurement year — partial completion does not satisfy the measure. BCS-E and COL-E are ECDS measures, so EHR data supplementation is required beyond claims alone.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+Multi-year look-back periods for CCS require intact claims history, including screenings performed before enrollment. COA audits should confirm all three required components are documented separately. For ECDS measures, member identity must be validated across claims and EHR data sources to prevent matching errors.
+
+RELEVANCE TO CARE MANAGEMENT:
+Care managers should stratify members by last screening date to identify those overdue for cervical, breast, or colorectal cancer screenings. COA is high-yield in Medicare Advantage populations and should be confirmed at annual wellness visits. BCS-E and COL-E outreach should reference integrated EHR data to avoid redundant screening orders.
+
+DOCUMENT: HEDIS MY 2024 — Effectiveness of Care: Cardiovascular and Diabetes Measures
+
+
+WHAT IT IS:
+This section covers cardiometabolic HEDIS measures including Controlling High Blood Pressure (CBP), Persistence of Beta-Blocker Treatment After a Heart Attack (PBH), Statin Therapy for Patients With Cardiovascular Disease (SPC), Cardiac Rehabilitation (CRE), Glycemic Status Assessment for Patients With Diabetes (GSD), Blood Pressure Control for Patients With Diabetes (BPD), Eye Exam for Patients With Diabetes (EED), Kidney Health Evaluation for Patients With Diabetes (KED), and Statin Therapy for Patients With Diabetes (SPD).
+
+WHO QUALIFIES:
+CBP applies to members ages 18–85 with a hypertension diagnosis whose blood pressure must be below 140/90 mmHg during the measurement year. PBH applies to members 18 and older hospitalized with an AMI and discharged between July 1 of the prior year and June 30 of the measurement year, requiring 180 days of continuous beta-blocker treatment post-discharge. SPC applies to males ages 21–75 and females ages 40–75 with clinical ASCVD, measuring both receipt of a high- or moderate-intensity statin and adherence of at least 80% of the treatment period. CRE applies to members 18 and older following a qualifying cardiac event and reports four rates based on session thresholds at 30, 90, and 180 days. GSD, BPD, EED, and KED apply to members ages 18–75 (or 18–85 for KED) with Type 1 or Type 2 diabetes. KED specifically requires both an eGFR and a urine albumin-creatinine ratio — either test alone is insufficient. SPD applies to members ages 40–75 with diabetes who do not have ASCVD and measures both statin receipt and at least 80% adherence.
+
+BILLING AND OPERATIONS:
+Pharmacy claims are essential for statin and beta-blocker adherence calculations based on proportion of days covered. Cardiac rehab sessions must be tracked by count and date relative to the qualifying event. For GSD, organizations must use the same data collection method — Administrative or Hybrid — for both the less-than-8.0% and greater-than-9.0% indicators and may not mix methods.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+Beta-blocker persistence requires 180 days of continuous pharmacy claims and should be audited for gaps or formulary switches. Statin adherence calculations depend on accurate days-supply data in pharmacy claims. KED requires both lab values to be present; a plan that pays for only one lab does not satisfy the measure and should not receive credit.
+
+RELEVANCE TO CARE MANAGEMENT:
+Diabetes care management should address GSD, BPD, EED, KED, and SPD simultaneously as a bundled diabetic population outreach. Post-AMI members require beta-blocker adherence follow-up at 30, 90, and 180 days. Cardiac rehab referral and session tracking is a major gap opportunity, particularly in Medicare Advantage populations where CRE achievement rates tend to be low.
+
+
+DOCUMENT: HEDIS MY 2024 — Effectiveness of Care: Respiratory, Musculoskeletal, and Appropriate Use Measures
+
+WHAT IT IS:
+This section covers measures related to appropriate clinical treatment and avoidance of overuse: Appropriate Testing for Pharyngitis (CWP), Pharmacotherapy Management of COPD Exacerbation (PCE), Asthma Medication Ratio (AMR), Appropriate Treatment for Upper Respiratory Infection (URI), Avoidance of Antibiotic Treatment for Acute Bronchitis/Bronchiolitis (AAB), and Use of Imaging Studies for Low Back Pain (LBP). For URI, AAB, and LBP, a lower utilization rate reflects better performance.
+
+WHO QUALIFIES:
+CWP applies to members age 3 and older diagnosed with pharyngitis and dispensed an antibiotic, requiring a group A strep test for the same episode. PCE applies to members age 40 and older with a COPD exacerbation resulting in an acute inpatient discharge or ED visit between January 1 and November 30 of the measurement year; the denominator is based on episodes rather than unique members, so an individual may appear more than once. AMR applies to members ages 5–64 with persistent asthma and requires a controller-to-total asthma medication ratio of 0.50 or greater. URI applies to members age 3 months and older diagnosed with an upper respiratory infection, and is satisfied when no antibiotic is dispensed for the episode. AAB applies to members age 3 months and older with acute bronchitis or bronchiolitis, also satisfied by absence of an antibiotic dispensing event. LBP applies to members ages 18–75 with a principal low back pain diagnosis and is satisfied when no imaging study — including plain X-ray, MRI, or CT scan — occurs within 28 days.
+
+BILLING AND OPERATIONS:
+CWP compliance requires a lab claim for a strep test tied to the same pharyngitis episode as the antibiotic dispensing event. PCE tracks two separate fill windows: a systemic corticosteroid within 14 days and a bronchodilator within 30 days of the exacerbation event. AMR is calculated from pharmacy claims using controller and rescue medication categories. URI, AAB, and LBP are avoidance measures where the absence of a specific claim drives compliance.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+Antibiotic claims incorrectly linked to a URI or bronchitis diagnosis can both harm quality scores and signal inappropriate prescribing. Imaging claims filed within 28 days of a low back pain diagnosis should be flagged for medical necessity review. PCE exacerbation events must be validated as true COPD episodes with appropriate diagnosis codes before inclusion in the measure denominator.
+
+RELEVANCE TO CARE MANAGEMENT:
+Antibiotic stewardship programs directly support performance on CWP, URI, and AAB. Asthma disease management should monitor the controller-to-total medication ratio and intervene when patients are over-reliant on rescue inhalers. COPD management programs should ensure post-exacerbation prescriptions are filled promptly within the required windows and documented in the medical record.
+
+
+DOCUMENT: HEDIS MY 2024 — Effectiveness of Care: Mental Health and Substance Use Measures
+
+WHAT IT IS:
+This section covers behavioral health measures including Antidepressant Medication Management (AMM), Follow-Up After Hospitalization for Mental Illness (FUH), Follow-Up After ED Visit for Mental Illness (FUM), Diagnosed Mental Health Disorders (DMH), Diagnosed Substance Use Disorders (DSU), Follow-Up After High-Intensity Care for Substance Use Disorder (FUI), Follow-Up After ED Visit for Substance Use (FUA), Pharmacotherapy for Opioid Use Disorder (POD), and schizophrenia comorbidity monitoring measures including SSD, SMD, SMC, and SAA.
+
+WHO QUALIFIES:
+AMM applies to members age 18 and older treated with antidepressants for major depression, with two rates reflecting 84 days of acute phase treatment and 180 days of continuation phase treatment. FUH applies to members age 6 and older discharged from inpatient psychiatric care or for intentional self-harm, requiring follow-up with a mental health provider within 7 and 30 days. FUM applies to members age 6 and older with a mental illness or intentional self-harm ED visit, with the same 7- and 30-day follow-up windows. FUI and FUA apply to members age 13 and older following high-intensity SUD care or a SUD-related ED visit respectively, also requiring follow-up within 7 and 30 days. POD applies to members age 16 and older with opioid use disorder and a new OUD pharmacotherapy event that must last at least 180 days. SAA applies to members age 18 and older with schizophrenia or schizoaffective disorder and requires antipsychotic adherence of at least 80% of the treatment period. SSD, SMD, and SMC apply to members ages 18–64 with schizophrenia and comorbid diabetes or cardiovascular disease, requiring relevant lab monitoring. DMH and DSU are prevalence measures for which neither a higher nor lower rate indicates better performance.
+
+BILLING AND OPERATIONS:
+FUH, FUM, FUI, and FUA all require an index event — inpatient discharge or ED visit — followed by a documented follow-up claim with a qualifying provider within the specified window. POD requires a new OUD pharmacotherapy episode, not continuation of existing treatment, confirmed through pharmacy claims. SAA adherence is calculated using proportion of days covered from pharmacy data.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+Follow-up visits for FUH, FUM, FUI, and FUA must be with qualifying mental health or SUD providers — visits with general practitioners may not satisfy the measure. Index hospitalizations and ED visits must carry the required principal diagnosis codes. POD must reflect a new pharmacotherapy episode, so prior treatment history must be reviewed before including an event.
+
+RELEVANCE TO CARE MANAGEMENT:
+Transitional care management following psychiatric hospitalization is the highest-leverage intervention for FUH and FUI — contact within 48 to 72 hours of discharge to schedule follow-up within 7 days is the standard approach. AMM adherence outreach at days 60 and 150 can capture members at risk of failing both the 84- and 180-day thresholds. Schizophrenia care managers should bundle lab ordering for LDL-C, HbA1c, and glucose with antipsychotic medication refill visits to satisfy SSD, SMD, and SMC simultaneously.
+
+
+DOCUMENT: HEDIS MY 2024 — Effectiveness of Care: Medication Safety and Older Adult Measures
+
+WHAT IT IS:
+This section covers medication safety and appropriate prescribing measures for older adult populations including Potentially Harmful Drug-Disease Interactions in Older Adults (DDE), Use of High-Risk Medications in Older Adults (DAE), Deprescribing of Benzodiazepines in Older Adults (DBO), Use of Opioids at High Dosage (HDO), Use of Opioids From Multiple Providers (UOP), Risk of Continued Opioid Use (COU), Osteoporosis Management in Women Who Had a Fracture (OMW), and Osteoporosis Screening in Older Women (OSW). Lower rates indicate better performance for DDE, DAE, HDO, UOP, and COU.
+
+WHO QUALIFIES:
+DDE applies to Medicare members age 65 and older with documented falls history, dementia, or chronic kidney disease who are dispensed a contraindicated ambulatory medication such as antiepileptics, antipsychotics, benzodiazepines, nonbenzodiazepine hypnotics, antidepressants, tricyclic antidepressants, anticholinergic agents, or NSAIDs concurrent with or after the qualifying diagnosis. DAE applies to Medicare members age 67 and older with at least two dispensing events for the same high-risk medication class. DBO applies to members age 67 and older who are dispensed benzodiazepines and achieve a reduction of at least 20% in diazepam milligram equivalent dose during the measurement year. HDO applies to members age 18 and older receiving prescription opioids at an average MME of 90 or greater for 15 or more days. UOP applies to members age 18 and older on opioids for 15 or more days who receive prescriptions from four or more different prescribers, four or more different pharmacies, or both. COU applies to members age 18 and older with a new opioid episode, measured as at least 15 days of opioids in a 30-day period or at least 31 days in a 62-day period. OMW applies to women ages 67–85 who suffered a fracture and requires a BMD test or osteoporosis medication prescription within 180 days of the fracture. OSW applies to women ages 65–75 and requires osteoporosis screening.
+
+BILLING AND OPERATIONS:
+Pharmacy claims are the primary data source for DDE, DAE, DBO, HDO, UOP, and COU. MME calculations for HDO require accurate days-supply and quantity fields on opioid claims. DBO requires baseline and year-end DME dose calculations from pharmacy data. UOP analysis requires prescriber NPI and pharmacy NPI tracking across all opioid claims for each member. OMW fracture date must be identified from claims and a 180-day window opened from that point.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+Multiple-prescriber and multiple-pharmacy opioid patterns identified by UOP are direct fraud, waste, and abuse indicators warranting investigation. High-dosage opioid claims triggering HDO should be reviewed for prior authorization compliance and clinical appropriateness. DDE contraindicated drug-disease combinations may indicate inappropriate prescribing that creates both quality and liability exposure for the plan.
+
+RELEVANCE TO CARE MANAGEMENT:
+Pharmacy-integrated care management teams should flag members triggering HDO, UOP, or COU for outreach and pain management review. Medication therapy management programs are well-positioned to address DAE and DDE during comprehensive medication reviews. Post-fracture care pathways should incorporate BMD testing and osteoporosis medication initiation to satisfy OMW within the 180-day window. Structured benzodiazepine tapering protocols support both DBO performance and patient safety goals.
+
+
+DOCUMENT: HEDIS MY 2024 — Access, Availability, and Utilization Measures
+
+
+WHAT IT IS:
+This section covers access-to-care and utilization measures including Adults' Access to Preventive and Ambulatory Health Services (AAP), Initiation and Engagement of Substance Use Disorder Treatment (IET), Prenatal and Postpartum Care (PPC), Use of First-Line Psychosocial Care for Children on Antipsychotics (APP), Plan All-Cause Readmissions (PCR), Hospitalization Following Discharge From a Skilled Nursing Facility (HFS), Acute Hospital Utilization (AHU), Emergency Department Utilization (EDU), Hospitalization for Potentially Preventable Complications (HPC), and Emergency Department Visits for Hypoglycemia in Older Adults With Diabetes (EDH).
+
+WHO QUALIFIES:
+AAP applies to members age 20 and older; Medicaid and Medicare members require a qualifying visit in the measurement year while commercial members may have a visit in the current year or either of the two prior years. IET tracks new SUD episodes requiring treatment initiation within 14 days and engagement within 34 days of initiation. PPC covers live birth deliveries between October 8 of the prior year and October 7 of the measurement year, assessing a prenatal visit in the first trimester and a postpartum visit between days 7 and 84 after delivery. APP applies to children and adolescents ages 1–17 with a new antipsychotic prescription, requiring documentation of psychosocial care as first-line treatment. PCR applies to members age 18 and older and counts unplanned acute readmissions within 30 days. HFS applies to members age 65 and older discharged from a skilled nursing facility to the community and measures unplanned acute hospitalization within 30 and 60 days. AHU and EDU report risk-adjusted observed-to-expected ratios for inpatient stays and ED visits. HPC applies to members age 67 and older and measures discharges for ambulatory care-sensitive conditions. EDH applies to members age 67 and older with diabetes and reports risk-adjusted ED visit ratios for hypoglycemia, stratified by dual eligibility and insulin use.
+
+BILLING AND OPERATIONS:
+IET requires identification of a new SUD episode defined as no SUD treatment in the prior 60 days, followed by timely follow-up claims within the specified windows. PCR requires accurate admission type coding to distinguish planned from unplanned readmissions, as planned readmissions are excluded. HFS requires accurate SNF discharge dates and subsequent inpatient claim dates. EDH insulin subgroup analysis requires pharmacy claims confirming insulin dispensing within each 180-day treatment period.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+PCR planned versus unplanned readmission classification is a common audit point — incorrect admission type coding can materially misstate readmission rates. ACSC hospitalizations captured by HPC represent potentially preventable admissions and are candidates for medical necessity review. EDH hypoglycemia ED visits may indicate overtreatment or insulin dosing errors that warrant clinical and claims-level audit.
+
+RELEVANCE TO CARE MANAGEMENT:
+Transitional care management is the primary lever for improving both PCR and HFS performance, with timely post-discharge contact and follow-up scheduling within 30 days. SUD care navigators directly support IET by closing initiation and engagement gaps. Prenatal care coordinators drive first-trimester visit timeliness for PPC. Proactive diabetes management with insulin dose review and hypoglycemia education supports EDH reduction. Ambulatory care access expansion and chronic disease management programs address ACSC-driven HPC rates.
+
+
+DOCUMENT: HEDIS MY 2024 — Electronic Clinical Data System (ECDS) Measures
+
+
+WHAT IT IS:
+HEDIS ECDS measures are reported using electronic clinical data from EHR systems and registries rather than administrative claims alone. This section covers Follow-Up Care for Children Prescribed ADHD Medication (ADD-E), Metabolic Monitoring for Children on Antipsychotics (APM-E), Depression Screening and Follow-Up for Adolescents and Adults (DSF-E), PHQ-9 Utilization for Depression Monitoring (DMS-E), Depression Remission or Response (DRR-E), Unhealthy Alcohol Use Screening and Follow-Up (ASF-E), Adult Immunization Status (AIS-E), Prenatal Immunization Status (PRS-E), Prenatal Depression Screening and Follow-Up (PND-E), Postpartum Depression Screening and Follow-Up (PDS-E), and Social Need Screening and Intervention (SNS-E).
+
+WHO QUALIFIES:
+ADD-E applies to children ages 6–12 newly prescribed ADHD medication, requiring one follow-up visit with a prescribing practitioner within 30 days for the initiation phase and at least two additional visits within 270 days for the continuation and maintenance phase if the member remains on medication for at least 210 days. APM-E applies to children and adolescents ages 1–17 on two or more antipsychotic prescriptions, requiring blood glucose testing, cholesterol testing, and both tests combined. DSF-E applies to members age 12 and older and requires depression screening with a standardized instrument and, if positive, follow-up care within 30 days. DMS-E applies to members age 12 and older with a diagnosis of major depression or dysthymia and requires a PHQ-9 score documented at the time of an outpatient encounter in the assessment period. DRR-E applies to members age 12 and older with an elevated PHQ-9 score and measures follow-up PHQ-9 documentation, remission, and response within 120 to 240 days. ASF-E applies to members age 18 and older and requires systematic alcohol use screening and brief counseling or follow-up within 60 days of a positive screen. AIS-E applies to members age 19 and older for influenza, Td or Tdap, zoster, and pneumococcal vaccines. PND-E and PDS-E assess depression screening during pregnancy and the postpartum period respectively, with follow-up within 30 days of a positive screen. SNS-E requires screening for food insecurity, housing instability, and transportation insecurity, with a corresponding intervention within 30 days of a positive screen in each domain.
+
+BILLING AND OPERATIONS:
+All ECDS measures require EHR data integration because administrative claims alone cannot satisfy them. PHQ-9 scores must exist as structured data fields in the medical record at the time of the qualifying encounter for DMS-E — free-text documentation is not sufficient. SNS-E requires documentation of an actual intervention, not merely a referral, within 30 days of each positive social needs screen. ADHD follow-up visits for ADD-E must be with a practitioner who holds prescribing authority.
+
+RELEVANCE TO PAYMENT INTEGRITY:
+EHR data completeness and integrity are audit risks across all ECDS measures. Organizations must validate that PHQ-9 scores are structured and timestamped to the encounter. SNS-E interventions must be clinically documented and distinguishable from passive referrals. ADHD visit claims for ADD-E must reflect the appropriate provider type with prescribing authority.
+
+RELEVANCE TO CARE MANAGEMENT:
+Depression screening workflows across PCP, OB, and behavioral health settings must be integrated to satisfy DSF-E, PND-E, and PDS-E together. SNS-E is a direct driver of SDOH programs — care managers must document the completed intervention, not just the screen result. ADHD medication initiation should trigger a structured 30-day follow-up appointment at the time of prescribing. APM-E metabolic monitoring should be embedded into pediatric antipsychotic prescribing protocols so labs are ordered automatically at the time of the second prescription fill.
